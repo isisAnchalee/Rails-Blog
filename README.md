@@ -1,2 +1,2 @@
-== Rails Blog!
+# Rails Blog!
 Meow meow meow
